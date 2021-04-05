@@ -4,7 +4,7 @@
 
 - 'm Stepan, the world saw me on December 15, 2000. About a decade and a half later, I answered it for the first time: `Hello World!`
 - live in Yekaterinburg, Russia
-- specialize in writing server business logic (backend)
+- specialize in coding server business logic (backend)
 - enjoy programming and learning new technologies
 - agree that modern problems require modern solutions.
 

@@ -14,7 +14,7 @@ My primary programming language is a [Python](https://www.python.org/), secondar
 
 I can work as a frontend or full-stack developer, but my preference is to remain backend. I am engaged in the development of different complexity levels web-sevices: both simple and complicated.
 
-My goal is to become a strong developer. He not only knows how to write code and solve trivial problems, but also has extensive knowledge in the entire IT-sphere. At the same time, it is enough to be a professional only in his field. He's not a nerd, he breaks the unfairly formed stereotype of closed-minded people forever sitting at the computer.
+My goal is to become a strong developer. He knows how to write code and solve trivial problems, but also has extensive knowledge in the entire IT-sphere. At the same time, it is enough to be a professional only in his field. He's not a nerd, he breaks the unfairly formed stereotype of closed-minded people forever sitting at the computer.
 
 I'm sure the code should be clean, accurate and self-documenting. I understand and use SOLID in my solutions if the project has a future. I've read: R. Martin "Clean Code", R. Martin "Clean architecture" (partly), М. Ильяхов "Пиши, сокращай" (M. Ilyakhov ~"Write, shorten"), А. Бхаргава "Грокаем алгоритмы" ~"Learn algorithms".
 

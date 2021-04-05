@@ -55,9 +55,9 @@ I understand the O-notation of the algorithms and can apply them.
     - [ReactJS](https://reactjs.org/)
 - VSC: any of [Git](https://git-scm.com/) (GitHub, GitLab, BitBucket, etc.)
 - Databases
-    - Both and SQL and ORM
     - Relational (i.e. [Postgres](https://www.postgresql.org/), [MySQL](https://www.mysql.com/))
     - Document-oriented (i.e. [MongoDB](https://www.mongodb.com/)), a bit [Elastic](https://www.elastic.co/)
+    - Both SQL and ORM
 - Analyze data using Excel or Python-scripts
 - Linux (more than 2 years of experience with Ubuntu, a bit of expirience with Debian and Manjaro)
 - [Docker](https://www.docker.com/), including docker-compose

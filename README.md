@@ -8,7 +8,7 @@
 - enjoy programming and learning new technologies
 - agree that modern problems require modern solutions.
 
-### Detailed
+## Detailed
 
 My primary programming language is a [Python](https://www.python.org/), secondary is a [JavaScript](https://www.javascript.com/).
 

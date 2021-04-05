@@ -22,8 +22,8 @@ I understand the O-notation of the algorithms and can apply them.
 
 ### Experience
 
-I started my career as a Python-developer in the [Rydlab](https://www.rydlab.ru/) and work there since August 8, 2019 to January 18, 2021.
-Since January 19, 2021, I've been working as a Python-developer in the data engineering department for the [SpectrumData (Avtocod)](https://avtocod.ru/).
+- August 8, 2019 - January 18, 2021. Python-developer in the [Rydlab](https://www.rydlab.ru/)
+- January 19, 2021 - ... . Python-developer in the data engineering department of the [SpectrumData (Avtocod)](https://avtocod.ru/)
 
 ### My soft
 

@@ -12,7 +12,7 @@
 
 My primary programming language is a [Python](https://www.python.org/), secondary is a [JavaScript](https://www.javascript.com/).
 
-I can work as a frontend or full-stack developer, but my preference is to remain backend. I am engaged in the development of different complexity levels web-sevices: both simple and complicated.
+I can work as a full-stack developer, but my preference is to remain backend. I am engaged in the development of different complexity levels web-sevices: both simple and complicated.
 
 My goal is to become a strong developer. He knows how to write code and solve trivial problems, but also has extensive knowledge in the entire IT-sphere. At the same time, it is enough to be a professional only in his field. He's not a nerd, he breaks the unfairly formed stereotype of closed-minded people forever sitting at the computer.
 
@@ -39,25 +39,26 @@ I understand the O-notation of the algorithms and can apply them.
 - [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) API
 - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 - [Microservices architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/microservices-architecture)
+    - [AMQP](https://www.amqp.org/) - RabbitMQ as management
 - [JavaScript](https://www.javascript.com/)
-    - Both legacy (before ES2015) and latest features (since ES6)
+    - Both legacy (... - ES2015) and latest features (ES6+)
     - [NodeJS](https://nodejs.org/), [Express](http://expressjs.com/)
     - async/await, Promises, callback-pattern, generator functions, etc.
 - [Python](https://www.python.org/)
     - [asyncio](https://docs.python.org/3/library/asyncio.html)
     - [aiohttp](https://docs.aiohttp.org/en/stable/)
-    - [Flask](https://flask.palletsprojects.com/)
-    - a bit [Django](https://www.djangoproject.com/)
 - Frontend
-    - HTML5 / CSS [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+    - HTML5 / CSS
+    - [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
     - [SCSS / SASS](https://sass-lang.com/)
     - [Bootstrap](https://getbootstrap.com/)
-    - [ReactJS](https://reactjs.org/)
+    - [ReactJS](https://reactjs.org/) (a bit expirience)
 - VSC: any of [Git](https://git-scm.com/) (GitHub, GitLab, BitBucket, etc.)
 - Databases
+    - SQL (intermediate)
     - Relational (i.e. [Postgres](https://www.postgresql.org/), [MySQL](https://www.mysql.com/))
-    - Document-oriented (i.e. [MongoDB](https://www.mongodb.com/)), a bit [Elastic](https://www.elastic.co/)
-    - Both SQL and ORM
-- Analyze data using Excel or Python-scripts
-- Linux (more than 2 years of experience with Ubuntu, a bit of expirience with Debian and Manjaro)
-- [Docker](https://www.docker.com/), including docker-compose
+    - Document-oriented (i.e. [MongoDB](https://www.mongodb.com/)), [Elastic](https://www.elastic.co/)
+- Data Engineering using Excel, Python/bash scripts, etc.
+- Linux (3+ years of UNIX experience: Ubuntu, Manjaro)
+- [Docker](https://www.docker.com/)
+    - Familiar with [K8S](https://kubernetes.io/) - at the study stage

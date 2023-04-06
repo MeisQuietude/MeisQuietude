@@ -43,13 +43,13 @@ Furthermore, I have successfully maintained and fine-tuned features of a web por
 
 ### Hard
 
-– Proficient in Python (versions 3.4 to the latest) and JavaScript ES2015+ (TypeScript).
-– Experienced in asynchronous programming, threads, and processes.
-– Skilled in working with REST/RPC (gRPC), AMQP (e.g., RabbitMQ) and S3 protocols.
-– Experienced in implementing Opentracing and Opentelemetry (with using Jaeger).
-– Familiar with Kubernetes (including kubectl, helm[file], k9s, and lens) from usage to chart coding.
-– Proficient in Docker containerization.
-– Experienced in using Git version control systems (such as GitHub, GitLab, BitBucket, etc.).
-– Knowledgeable in working with different types of databases, including relational (e.g., PostgreSQL, MySQL), document-oriented (e.g., MongoDB, ElasticSearch), and key-value (e.g., Redis) databases.
-– Comfortable working with Linux (such as Ubuntu/Debian, Manjaro), Unix (such as macOS), and Windows operating systems.
-– Partitially familiar with ML-projects.
+- Proficient in Python (versions 3.4 to the latest) and JavaScript ES2015+ (TypeScript).
+- Experienced in asynchronous programming, threads, and processes.
+- Skilled in working with REST/RPC (gRPC), AMQP (e.g., RabbitMQ) and S3 protocols.
+- Experienced in implementing Opentracing and Opentelemetry (with using Jaeger).
+- Familiar with Kubernetes (including kubectl, helm[file], k9s, and lens) from usage to chart coding.
+- Proficient in Docker containerization.
+- Experienced in using Git version control systems (such as GitHub, GitLab, BitBucket, etc.).
+- Knowledgeable in working with different types of databases, including relational (e.g., PostgreSQL, MySQL), document-oriented (e.g., MongoDB, ElasticSearch), and key-value (e.g., Redis) databases.
+- Comfortable working with Linux (such as Ubuntu/Debian, Manjaro), Unix (such as macOS), and Windows operating systems.
+- Partitially familiar with ML-projects.

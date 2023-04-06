@@ -1,64 +1,55 @@
 # Hi, I'm @MeisQuietude. Nice to meet you 👋
 
-## Briefly, I...
+## Briefly
 
-- 'm Stepan, the world saw me on December 15, 2000. About a decade and a half later, I answered it for the first time: `Hello World!`
-- live in Yekaterinburg, Russia
-- specialize in coding server business logic (backend)
-- enjoy programming and learning new technologies
-- agree that modern problems require modern solutions.
+My name is Stepan, and I was born on December 15, 2000. About a decade and a half later, I wrote my first program: `Hello World!`.
+
+I currently reside in Yekaterinburg, Russia, and specialize in coding server business logic (backend).
+
+I have a passion for programming and enjoy learning about new technologies.
+
+I strongly believe that modern problems require modern solutions.
 
 ## Detailed
 
-My primary programming language is a [Python](https://www.python.org/), secondary is a [JavaScript](https://www.javascript.com/).
+My primary programming language is [Python (3.4 -> latest)](https://www.python.org/), and my secondary language is [JavaScript]((https://www.javascript.com/)) (TypeScript).
 
-I can work as a full-stack developer, but my preference is to remain backend. I am engaged in the development of different complexity levels web-sevices: both simple and complicated.
+I can work as a full-stack developer, but my preference is to focus on backend development. I have experience in developing web services of varying levels of complexity, from simple to advanced.
 
-My goal is to become a strong developer. He knows how to write code and solve trivial problems, but also has extensive knowledge in the entire IT-sphere. At the same time, it is enough to be a professional only in his field. He's not a nerd, he breaks the unfairly formed stereotype of closed-minded people forever sitting at the computer.
+My goal is to become a strong developer who not only knows how to write code and solve complex problems but also has extensive knowledge of the entire IT sphere. However, I understand that it is sufficient to be a professional in my field. I am not a nerd and do not fit the stereotype of a closed-minded person who spends all their time in front of a computer.
 
-I'm sure the code should be clean, accurate and self-documenting. I understand SOLID and use it in my solutions if the project has a future. I've read: R. Martin "Clean Code", R. Martin "Clean architecture" (partly), М. Ильяхов "Пиши, сокращай" (M. Ilyakhov ~"Write, shorten"), А. Бхаргава "Грокаем алгоритмы" ~"Learn algorithms".
+I believe that code should be clean, accurate, and self-documenting. I understand the SOLID principles and apply them to my solutions if the project has a future. I have read several books on the topic, including "Clean Code" and "Clean Architecture" by R. Martin, "Write, Shorten" by M. Ilyakhov, and "Groking Algorithms" by A. Bhargava.
 
-I understand the O-notation of the algorithms and can apply them.
+I also have a strong understanding of algorithmic complexity (O-notation) and can apply it effectively.
 
 ### Experience
 
-- August 8, 2019 - January 18, 2021. Python-developer in the [Rydlab](https://www.rydlab.ru/)
-- January 19, 2021 - ... . Python-developer in the data engineering department of the [SpectrumData (Avtocod)](https://avtocod.ru/)
+1. August 8, 2019 - January 18, 2021. Python-developer in the [Rydlab](https://www.rydlab.ru/)
 
-### My soft
+I have developed various modules for open-source ERP systems individually tailored to each client's needs, primarily using Python. In addition, I have created multiple scripts and modules for internal systems using bash and Python.
 
-- We are all human beings
-- Friendly and communicative
-- An optimistic attitude toward everything
-- Mindfulness in the time management
-- No fear of trouble
-- Self-reliance
+Furthermore, I have successfully maintained and fine-tuned features of a web portal that was developed in pure JavaScript.
 
-### My hard
+2. January 19, 2021 - up to the present time. Python-developer in the data engineering department of the [SpectrumData](https://spectrumdata.ru)
 
-- [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) API
-- [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
-- [Microservices architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/microservices-architecture)
-    - [AMQP](https://www.amqp.org/) - RabbitMQ as management
-- [JavaScript](https://www.javascript.com/)
-    - Both legacy (... - ES2015) and latest features (ES6+)
-    - [NodeJS](https://nodejs.org/), [Express](http://expressjs.com/)
-    - async/await, Promises, callback-pattern, generator functions, etc.
-- [Python](https://www.python.org/)
-    - [asyncio](https://docs.python.org/3/library/asyncio.html)
-    - [aiohttp](https://docs.aiohttp.org/en/stable/)
-- Frontend
-    - HTML5 / CSS
-    - [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-    - [SCSS / SASS](https://sass-lang.com/)
-    - [Bootstrap](https://getbootstrap.com/)
-    - [ReactJS](https://reactjs.org/) (a bit expirience)
-- VSC: any of [Git](https://git-scm.com/) (GitHub, GitLab, BitBucket, etc.)
-- Databases
-    - SQL (intermediate)
-    - Relational (i.e. [Postgres](https://www.postgresql.org/), [MySQL](https://www.mysql.com/))
-    - Document-oriented (i.e. [MongoDB](https://www.mongodb.com/)), [Elastic](https://www.elastic.co/)
-- Data Engineering using Excel, Python/bash scripts, etc.
-- Linux (3+ years of UNIX experience: Ubuntu, Manjaro)
-- [Docker](https://www.docker.com/)
-    - Familiar with [K8S](https://kubernetes.io/) - at the study stage
+### Soft
+
+- We are all human beings.
+- We are friendly and communicative.
+- We have an optimistic attitude towards everything.
+- We practice mindfulness in time management.
+- We have no fear of trouble.
+- We are self-reliant.
+
+### Hard
+
+– Proficient in Python (versions 3.4 to the latest) and JavaScript ES2015+ (TypeScript).
+– Experienced in asynchronous programming, threads, and processes.
+– Skilled in working with REST/RPC (gRPC), AMQP (e.g., RabbitMQ) and S3 protocols.
+– Experienced in implementing Opentracing and Opentelemetry (with using Jaeger).
+– Familiar with Kubernetes (including kubectl, helm[file], k9s, and lens) from usage to chart coding.
+– Proficient in Docker containerization.
+– Experienced in using Git version control systems (such as GitHub, GitLab, BitBucket, etc.).
+– Knowledgeable in working with different types of databases, including relational (e.g., PostgreSQL, MySQL), document-oriented (e.g., MongoDB, ElasticSearch), and key-value (e.g., Redis) databases.
+– Comfortable working with Linux (such as Ubuntu/Debian, Manjaro), Unix (such as macOS), and Windows operating systems.
+– Partitially familiar with ML-projects.

@@ -43,6 +43,10 @@ Furthermore, I have successfully maintained and fine-tuned features of a web por
 
 ### Hard
 
+I have expertise in building the server-side components of web applications, as well as managing a suite of applications with a microservices architecture.
+
+My experience includes handling vast amounts of data and gathering it through APIs from various providers or open sources on the internet.
+
 - Proficient in Python (versions 3.4 to the latest) and JavaScript ES2015+ (TypeScript).
 - Experienced in asynchronous programming, threads, and processes.
 - Skilled in working with REST/RPC (gRPC), AMQP (e.g., RabbitMQ) and S3 protocols.
